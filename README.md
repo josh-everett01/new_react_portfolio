@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# My new Portfolio
+
+![screenshot](https://github.com/josh-everett01/new_react_portfolio/blob/master/public/Screen%20Shot%202021-02-09%20at%2012.20.17%20PM.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
